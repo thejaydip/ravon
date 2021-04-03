@@ -1,4 +1,4 @@
-# ravon
+# Ravon
 
 -------------------------------------------------------
     Thank you for downloading Ravon theme!
@@ -52,6 +52,7 @@ License URI: https://github.com/twbs/bootstrap/blob/main/LICENSE
 Source: http://getbootstrap.com
 
 = FONTS =
+
 Font Awesome Free 5.15.1
 License: MIT
 License URI: https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
