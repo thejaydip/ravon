@@ -36,20 +36,20 @@ Bundled resources in the theme are licensed under GPL or MIT (or both).
 
 = CSS =
 
-Bootstrap Grid v4.5.2
+Bootstrap v4.5.3
 Copyright 2011-2020 The Bootstrap Authors
 Copyright 2011-2020 Twitter, Inc.
 License: MIT
 License URI: https://github.com/twbs/bootstrap/blob/main/LICENSE
-Source: http://getbootstrap.com
+Source: https://getbootstrap.com
 
 = JS =
 
-Bootstrap Grid v4.5.2
+Bootstrap v4.5.3
 Copyright 2011-2020 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
 License: MIT
 License URI: https://github.com/twbs/bootstrap/blob/main/LICENSE
-Source: http://getbootstrap.com
+Source: https://getbootstrap.com
 
 = FONTS =
 
