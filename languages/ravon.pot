@@ -1,0 +1,473 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ravon\n"
+"POT-Creation-Date: 2021-05-22 15:02+0530\n"
+"PO-Revision-Date: 2021-05-22 15:03+0530\n"
+"Last-Translator: \n"
+"Language-Team: thejaydip64@gmail.com\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html;esc_html__;esc_html_e;esc_html_x;esc_attr_x;"
+"esc_attr;esc_url;__;_x;_nx\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: comments.php:36
+#, php-format
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:43
+#, php-format
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:58 comments.php:78
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:60 comments.php:80
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:61 comments.php:81
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:94
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:20
+msgid "Copyright&copy;2020-2021"
+msgstr ""
+
+#: functions.php:62
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:187
+msgid "Previous Page"
+msgstr ""
+
+#: functions.php:188
+msgid "Next Page"
+msgstr ""
+
+#: functions.php:189
+msgid "Page"
+msgstr ""
+
+#: functions.php:203
+msgid "Next"
+msgstr ""
+
+#: functions.php:204
+msgid "Prev"
+msgstr ""
+
+#: functions.php:253
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:255
+msgid "Widgets in this area will be displayed in the page/post."
+msgstr ""
+
+#: header.php:20
+msgid "Skip to content"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:37
+msgid "Site Identity"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:45
+msgid "Header"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:50
+msgid "Pages"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:55
+msgid "Blog"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:60
+#: lib/customize/class-ravon-customize.php:692
+msgid "Footer"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:65
+msgid "Typography"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:70
+msgid "General"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:85
+msgid "Behaviour"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:90
+#: lib/customize/class-ravon-customize.php:106
+#: lib/customize/class-ravon-customize.php:181
+#: lib/customize/class-ravon-customize.php:239
+#: lib/customize/class-ravon-customize.php:452
+#: lib/customize/class-ravon-customize.php:670
+#: lib/customize/class-ravon-customize.php:708
+msgid "Default"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:91
+msgid "Sticky"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:101
+#: lib/customize/class-ravon-customize.php:176
+#: lib/customize/class-ravon-customize.php:234
+#: lib/customize/class-ravon-customize.php:447
+#: lib/customize/class-ravon-customize.php:665
+#: lib/customize/class-ravon-customize.php:703
+msgid "Container"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:107
+#: lib/customize/class-ravon-customize.php:182
+#: lib/customize/class-ravon-customize.php:240
+#: lib/customize/class-ravon-customize.php:453
+#: lib/customize/class-ravon-customize.php:671
+#: lib/customize/class-ravon-customize.php:709
+msgid "Fluid"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:123
+#: lib/customize/class-ravon-customize.php:750
+msgid "Background Color"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:141
+#: lib/customize/class-ravon-customize.php:762
+msgid "Text Color"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:159
+msgid "Submenu Text Color"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:192
+#: lib/customize/class-ravon-customize.php:250
+msgid "Select Sidebar"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:197
+#: lib/customize/class-ravon-customize.php:255
+msgid "None"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:198
+#: lib/customize/class-ravon-customize.php:256
+#: lib/customize/class-ravon-customize.php:551
+msgid "Right"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:199
+#: lib/customize/class-ravon-customize.php:257
+#: lib/customize/class-ravon-customize.php:549
+msgid "Left"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:211
+msgid "Archive"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:220
+msgid "Single"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:267
+msgid "Featured Image"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:279
+#: lib/customize/class-ravon-customize.php:494
+msgid "Title"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:291
+#: lib/customize/class-ravon-customize.php:506
+msgid "Content"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:303
+msgid "Date"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:315
+msgid "Categories"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:327
+msgid "Author"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:339
+msgid "Comments"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:351
+msgid "Tags"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:364
+#: lib/customize/class-ravon-customize.php:562
+#: lib/customize/class-ravon-customize.php:682
+msgid "Title Color"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:377
+#: lib/customize/class-ravon-customize.php:588
+msgid "Content Text Color"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:390
+msgid "Meta Text Color"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:403
+msgid "Meta Text Hover Color"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:463
+msgid "Select Column"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:468
+msgid "2 Columns"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:469
+msgid "3 Columns"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:470
+msgid "4 Columns"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:471
+msgid "5 Columns"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:472
+msgid "6 Columns"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:482
+msgid "Thumbnail"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:518
+msgid "Read More"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:526 template-parts/content.php:16
+msgid "Continue Reading"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:531
+msgid "Read More Text"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:544
+msgid "Text Align"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:550
+msgid "Center"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:575
+msgid "Title Hover Color"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:601
+msgid "Read More Text Color"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:614
+msgid "Read More Text Hover Color"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:654
+msgid "404 Page"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:714
+msgid "Copyright Text"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:725
+msgid "Add Copyright Text"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:737
+#: lib/customize/class-ravon-customize.php:794
+#: lib/customize/class-ravon-customize.php:860
+#: lib/customize/class-ravon-customize.php:914
+#: lib/customize/class-ravon-customize.php:968
+#: lib/customize/class-ravon-customize.php:1022
+#: lib/customize/class-ravon-customize.php:1076
+#: lib/customize/class-ravon-customize.php:1130
+#: lib/customize/class-ravon-customize.php:1184
+msgid "Font Size"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:772
+msgid "Body"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:783
+#: lib/customize/class-ravon-customize.php:837
+#: lib/customize/class-ravon-customize.php:903
+#: lib/customize/class-ravon-customize.php:957
+#: lib/customize/class-ravon-customize.php:1011
+#: lib/customize/class-ravon-customize.php:1065
+#: lib/customize/class-ravon-customize.php:1119
+#: lib/customize/class-ravon-customize.php:1173
+msgid "Color"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:806
+#: lib/customize/class-ravon-customize.php:872
+#: lib/customize/class-ravon-customize.php:926
+#: lib/customize/class-ravon-customize.php:980
+#: lib/customize/class-ravon-customize.php:1034
+#: lib/customize/class-ravon-customize.php:1088
+#: lib/customize/class-ravon-customize.php:1142
+#: lib/customize/class-ravon-customize.php:1196
+msgid "Line Height"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:818
+#: lib/customize/class-ravon-customize.php:884
+#: lib/customize/class-ravon-customize.php:938
+#: lib/customize/class-ravon-customize.php:992
+#: lib/customize/class-ravon-customize.php:1046
+#: lib/customize/class-ravon-customize.php:1100
+#: lib/customize/class-ravon-customize.php:1154
+#: lib/customize/class-ravon-customize.php:1208
+msgid "Letter Spacing"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:825
+msgid "Links"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:849
+msgid "Hover Color"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:891
+msgid "Heading H1"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:945
+msgid "Heading H2"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:999
+msgid "Heading H3"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:1053
+msgid "Heading H4"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:1107
+msgid "Heading H5"
+msgstr ""
+
+#: lib/customize/class-ravon-customize.php:1161
+msgid "Heading H6"
+msgstr ""
+
+#: search.php:41
+msgid "Search Results for:"
+msgstr ""
+
+#: searchform.php:11 searchform.php:12
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:12
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:14
+msgid "Search"
+msgstr ""
+
+#: template-parts/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:23
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:43
+msgid "By"
+msgstr ""
+
+#: template-parts/content-single.php:82
+msgid "Posted on"
+msgstr ""
+
+#: template-parts/content-single.php:93
+msgid "Edit"
+msgstr ""
+
+#: template-parts/content-single.php:105
+msgid ", "
+msgstr ""
+
+#: template-parts/content-single.php:111
+#, php-format
+msgid "Tagged: %1$s"
+msgstr ""
+
+#: template-parts/pagination.php:22
+msgid "Newer <span class=\"nav-short\">Posts</span>"
+msgstr ""
+
+#: template-parts/pagination.php:26
+msgid "Older <span class=\"nav-short\">Posts</span>"
+msgstr ""
+
+#: template-parts/site-header.php:94
+msgid "Toggle navigation"
+msgstr ""

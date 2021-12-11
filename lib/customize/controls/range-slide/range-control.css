@@ -1,0 +1,11 @@
+.ravon-range-value-input {
+    display: inline-block;
+    vertical-align: middle;
+    width:70%;
+}
+.ravon-range-value {
+	display: inline;
+	font-weight: 400;
+	font-size: 20px;
+	vertical-align: middle;
+}
